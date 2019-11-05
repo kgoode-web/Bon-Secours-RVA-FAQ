@@ -1,6 +1,6 @@
 ## Bon Secours Home Health
 
-The Bon Secours Team is dedicated to helping you. 
+The Bon Secours Team is dedicated to helping you with your care needs.
 
 ### Markdown
 
