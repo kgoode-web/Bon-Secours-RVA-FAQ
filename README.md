@@ -1,10 +1,8 @@
-## Bon Secours Home Health
+## Bon Secours Home Health RVA
 
-The Bon Secours Team is dedicated to helping you with your care needs.
+### Frequently Asked Questions
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bon Secours is dedicated to helping our patients address some of their most pressing questions. Before giving our care team a ring, please review our list of frequently asked questions. If our answers still do not address your inquiry then please call our Richmond office at 804-435-8587. 
 
 ```markdown
 Syntax highlighted code block
