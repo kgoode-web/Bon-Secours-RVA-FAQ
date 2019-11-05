@@ -1,6 +1,7 @@
 ## Bon Secours Home Health Richmond
 ## Frequently Asked Questions
 
+
 Bon Secours is dedicated to helping our patients address some of their most pressing questions. Before giving our care team a ring, please review our list of frequently asked questions. If our answers still do not address your inquiry then please call our Richmond office at 804-435-8587. 
 
 ### Overview
