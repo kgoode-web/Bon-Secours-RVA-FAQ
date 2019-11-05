@@ -9,14 +9,35 @@ Bon Secours is dedicated to helping our patients address some of their most pres
 Each frequently asked question has been divided into 5 distinct categories. These categories include Finance, Program Policy, Therapy, Cancellations, and Medical. If your inquiry does not fit into any of these categories then please give us a call.
 
 
+### Finance FAQs
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+How do I submit a payment?
+       For uninsured payers, we have flexible payment options. You can call us directly and make payment over the phone. 
+       Just call our Richmond office and ask to be transfered to the finance department. You could also mail your payment to
+       our office. For insured payers,you are only olbigated to pay a co-pay. The amount of the co-pay is contingent upon
+       your insurance provider. Your bill will be mailed to your current residence monthly. For inquiries regarding an 
+       alternative billing cycle please contact our Richmond office and speak with someone from finance.
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kgoode-web/Bon-Secours-RVA-FAQ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Jekyll Themes
+
+
+### Jekyll Themes
+
+### Jekyll Themes
+
+### Jekyll Themes
+
+
+### Jekyll Themes
+
+
+### Jekyll Themes
