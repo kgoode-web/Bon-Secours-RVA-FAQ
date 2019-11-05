@@ -1,26 +1,15 @@
-##header Bon Secours Home Health RVA
+## Frequently Asked Questions
 
-### Frequently Asked Questions
+*This text will be centered*
 
 Bon Secours is dedicated to helping our patients address some of their most pressing questions. Before giving our care team a ring, please review our list of frequently asked questions. If our answers still do not address your inquiry then please call our Richmond office at 804-435-8587. 
 
-```markdown
-Syntax highlighted code block
+### Overview
 
-# Header 1
-## Header 2
-### Header 3
+Each frequently asked question has been divided into 5 distinct categories. These categories include Finance, Program Policy, Therapy, Cancellations, and Medical. If your inquiry does not fit into any of these categories then please give us a call.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
