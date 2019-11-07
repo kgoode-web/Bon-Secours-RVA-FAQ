@@ -8,7 +8,6 @@ font-family: Times New Roman;
 color: black;
 font-size: 20pt;
 font-weight: bold;
-background-color: white;
 padding: 15px;
 display: block;
 }
@@ -17,7 +16,6 @@ term {
 text-align: center;
 font-size: 18pt;
 font-weight: bold;
-background-color: white;
 }
 
 summary {
@@ -26,15 +24,13 @@ font-family: Times New Roman;
 color: black;
 font-size: 18pt;
 font-weight: bold;
-background-color: white;
 }
 
 body {
 text-align: left;
 font-family: Times New Roman;
 color: black;
-font-size: 12pt
-background-color: white;
+font-size: 12pt;
 }
 
 finance {
@@ -43,7 +39,6 @@ font-family: Times New Roman;
 color: black;
 font-size: 15pt;
 font-weight: bold;
-background-color: white;
 }
 
 faq_one {
@@ -52,7 +47,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt;
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -61,7 +55,6 @@ text-align: left;
 font-family: Times New Roman;
 color: black;
 font-size: 12pt;
-background-color: white;
 }
 
 faq_two {
@@ -70,7 +63,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt;
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -79,7 +71,6 @@ text-align: left;
 font-family: Times New Roman;
 color: black;
 font-size: 12pt
-background-color: white;
 }
 
 program {
@@ -88,7 +79,6 @@ font-family: Times New Roman;
 color: black;
 font-size: 15pt;
 font-weight: bold;
-background-color: white;
 }
 
 faq_three {
@@ -97,7 +87,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt;
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -106,7 +95,6 @@ text-align: left;
 font-family: Times New Roman;
 color: black;
 font-size: 12pt;
-background-color: white;
 }
 
 faq_four {
@@ -115,7 +103,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -124,7 +111,6 @@ text-align: left;
 font-family: Times New Roman;
 color: black;
 font-size: 12pt;
-background-color: white;
 }
 
 therapy {
@@ -133,7 +119,6 @@ font-family: Times New Roman;
 color: black;
 font-size: 15pt;
 font-weight: bold;
-background-color: white;
 }
 
 faq_five {
@@ -142,7 +127,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -160,7 +144,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt;
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -169,7 +152,6 @@ text-align: left;
 font-family: Times New Roman;
 color: black;
 font-size: 12pt;
-background-color: white;
 }
 
 faq_seven {
@@ -178,7 +160,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt;
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -187,7 +168,6 @@ text-align: left;
 font-family: Times New Roman;
 color: black;
 font-size: 12pt;
-background-color: white;
 }
 
 cancellations {
@@ -196,7 +176,6 @@ font-family: Times New Roman;
 color: black;
 font-size: 15pt;
 font-weight: bold;
-background-color: white;
 }
 
 faq_eight {
@@ -205,7 +184,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt;
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -223,7 +201,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt;
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -232,7 +209,6 @@ text-align: left;
 font-family: Times New Roman;
 color: black;
 font-size: 12pt;
-background-color: white;
 }
 
 medical {
@@ -241,7 +217,6 @@ font-family: Times New Roman;
 color: black;
 font-size: 15pt;
 font-weight: bold;
-background-color: white;
 }
 
 faq_ten {
@@ -250,7 +225,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt;
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -268,7 +242,6 @@ font-family: Times New Roman;
 color: blue;
 font-size: 12pt;
 font-weight: bold;
-background-color: white;
 list-style-type: square;
 }
 
@@ -277,7 +250,6 @@ text-align: left;
 font-family: Times New Roman;
 color: black;
 font-size: 12pt;
-background-color: white;
 }
 
 contact {
@@ -286,7 +258,6 @@ font-family: Times New Roman;
 color: black;
 font-size: 11pt;
 font-weight: bold;
-background-color: white;
 }
 
 address {
@@ -295,7 +266,6 @@ font-family: Times New Roman;
 color: black;
 font-size: 11pt;
 font-weight: bold;
-background-color: white;
 }
 
 phone {
@@ -304,5 +274,4 @@ font-family: Times New Roman;
 color: black;
 font-size: 11pt;
 font-weight: bold;
-background-color: white;
 }
